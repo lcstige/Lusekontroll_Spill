@@ -1,0 +1,15 @@
+# Ignore all files in the input directory
+input/
+
+# Ignore all files in the output directory
+output/
+
+# Ignore all files that end with .RData
+*.RData
+
+# Ignore the Rproj file
+scripts.Rproj
+
+# Ignore the Rproj file
+.Rhistory
+
