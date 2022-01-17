@@ -2,7 +2,7 @@
 input/
 
 # Ignore all files in the output directory
-output/
+# output/
 
 # Ignore all files that end with .RData
 *.RData
@@ -11,5 +11,7 @@ output/
 scripts.Rproj
 
 # Ignore the Rproj file
-.Rhistory
+.Rproj
 
+# Ignore the supporting Rproj files
+.Rproj.user/
