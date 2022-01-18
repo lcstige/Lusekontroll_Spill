@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1642453810535.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "926100541",
+    "id" : "1245926C",
+    "lastKnownWriteTime" : 1642504312,
+    "last_content_update" : 1642504311911,
+    "path" : "H:/GIT/Lusekontroll_Spill/output/test.R",
+    "project_path" : "output/test.R",
+    "properties" : {
+        "cursorPosition" : "6,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
